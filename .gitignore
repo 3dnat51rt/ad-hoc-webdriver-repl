@@ -1,0 +1,14 @@
+# Emacs
+*~
+\#*
+\#*\#
+.\#*
+
+# perl -i.bak -wlpe backup files
+*.bak
+
+# Node
+node_modules
+
+#Mac OS
+.DS_Store
